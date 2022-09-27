@@ -60,4 +60,9 @@ y = 5;
 // ----------------Comparison exercise - 16---------
 var age = n;
 var voteable = (age <18)?"Too young":"Old enough";
-alert(voteable);
+// alert(voteable);
+
+// ----------------if else exercise - 17---------
+if (x > y){
+alert("Hello World");
+}
