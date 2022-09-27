@@ -53,4 +53,8 @@ var n = 5;
 var m  = 10;
 var n = 10;
 // alert(m == n);
+// ----------------Comparison exercise - 15---------
+x = 10;
+y = 5;
+alert(x != y);
 
