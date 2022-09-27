@@ -149,6 +149,9 @@ document.getElementsByClassName("test")[0].innerHTML = "Hellooooo";
 // // ----------------  MAPS loop exercise - 30---------
 document.getElementById("image").src = "pic_mountain.jpg";
 
+// ----------------  MAPS loop exercise - 31---------
+document.getElementById("myText").value = "Have a nice day!";
+
 
 
 
