@@ -152,6 +152,9 @@ document.getElementById("image").src = "pic_mountain.jpg";
 // ----------------  MAPS loop exercise - 31---------
 document.getElementById("myText").value = "Have a nice day!";
 
+// ----------------  MAPS loop exercise - 32---------
+document.getElementById("demo3").style.color = "red";
+
 
 
 
