@@ -105,3 +105,10 @@ const fruitss = ["Apple", "Banana", "Orange"];
 for(x of fruitss){
   console.log(x);
 }
+
+// ----------------  while loop exercise - 23---------
+let l = 0;
+while(l<10) {
+  console.log(l);
+  i++
+}
