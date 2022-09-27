@@ -25,3 +25,9 @@ var d2 = new Date();
 month = d.getMonth();
 console.log(month);
 
+// ----------------date exercise - 7---------
+var d3 = new Date();
+console.log(d.getFullYear(2022));
+
+
+
