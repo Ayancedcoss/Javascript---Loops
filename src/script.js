@@ -48,4 +48,9 @@ console.log(z);
 // ----------------Comparison exercise - 13---------
 var m  = 10;
 var n = 5;
-alert(m>n);
+// alert(m>n);
+// ----------------Comparison exercise - 14---------
+var m  = 10;
+var n = 10;
+// alert(m == n);
+
