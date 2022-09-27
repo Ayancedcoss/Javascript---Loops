@@ -107,8 +107,14 @@ for(x of fruitss){
 }
 
 // ----------------  while loop exercise - 23---------
-let l = 0;
-while(l<10) {
-  console.log(l);
-  i++
+// let l = 0;
+// while(l<10) {
+//   console.log(l);
+//   i++
+// }
+// ----------------  while loop exercise - 24---------
+let j = 0;
+while (j < 10) {
+  console.log(j);
+j = j + 2;
 }
