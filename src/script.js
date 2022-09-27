@@ -134,6 +134,19 @@ continue
   }
   console.log(i);
 }
-// ----------------  break loop exercise - 27---------
+// ----------------  MAPS loop exercise - 27---------
 
 document.getElementById("demo1").innerHTML = "Hello";
+
+// ----------------  MAPS loop exercise - 28---------
+
+document.getElementsByTagName("p")[0].innerHTML= "HeEllo";
+// ----------------  MAPS loop exercise - 29---------
+
+
+
+
+
+
+
+
