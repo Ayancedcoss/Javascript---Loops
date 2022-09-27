@@ -162,6 +162,10 @@ document.getElementById("demo4").style.fontSize = "40px";
 // ----------------  MAPS loop exercise - 34---------
 document.getElementById("demo5").style.display= "none";
 
+// ----------------  MAPS loop exercise - 35---------
+document.getElementById("demo6").addEventListener("click", myFunction);
+
+
 
 
 
