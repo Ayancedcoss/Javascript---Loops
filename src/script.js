@@ -39,4 +39,7 @@ console.log(r);
 // ----------------Math Method exercise - 10---------
 let x = Math.max(10, 20);
 console.log(x);
+// ----------------Math Method exercise - 11---------
+let y = Math.round(5.3);
+console.log(y);
 
