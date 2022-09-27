@@ -42,4 +42,6 @@ console.log(x);
 // ----------------Math Method exercise - 11---------
 let y = Math.round(5.3);
 console.log(y);
-
+// ----------------Math Method exercise - 12---------
+let z = Math.sqrt(9);
+console.log(z);
