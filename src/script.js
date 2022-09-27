@@ -87,11 +87,16 @@ switch(fruits) {
 // ----------------Switch exercise - 20---------
 switch(fruits) {
     case "Banana":
-      alert("Hello")
+    //   alert("Hello")
       break;
     case "Apple":
-      alert("Welcome")
+    //   alert("Welcome")
       break;
     default:
-   alert("Neither");
+//    alert("Neither");
   }
+// ---------------- for loop exercise - 21---------
+let i;
+for(i=0; i<10; i++){
+  console.log(i);
+}
