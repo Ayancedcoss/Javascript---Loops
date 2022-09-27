@@ -45,3 +45,7 @@ console.log(y);
 // ----------------Math Method exercise - 12---------
 let z = Math.sqrt(9);
 console.log(z);
+// ----------------Comparison exercise - 13---------
+var m  = 10;
+var n = 5;
+alert(m>n);
