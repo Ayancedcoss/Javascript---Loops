@@ -13,5 +13,9 @@ console.log(fruits_1.sort());
 
 // ----------------Array exercise - 4---------
 const d = new Date();
-alert(d);
+// alert(d);
 
+// ----------------Array exercise - 5---------
+var d1 = new Date();
+year = d.getFullYear();
+console.log(year);
