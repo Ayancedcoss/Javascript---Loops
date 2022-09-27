@@ -66,3 +66,11 @@ var voteable = (age <18)?"Too young":"Old enough";
 if (x > y){
 alert("Hello World");
 }
+
+// ----------------if else exercise - 18---------
+if(x >y) {
+  alert("Hello World");
+} else
+ {
+  alert("Goodbye");
+}
