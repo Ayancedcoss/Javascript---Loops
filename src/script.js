@@ -146,6 +146,9 @@ document.getElementsByTagName("p")[0].innerHTML= "HeEllo";
 
 document.getElementsByClassName("test")[0].innerHTML = "Hellooooo";
 
+// // ----------------  MAPS loop exercise - 30---------
+document.getElementById("image").src = "pic_mountain.jpg";
+
 
 
 
