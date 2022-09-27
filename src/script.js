@@ -29,5 +29,9 @@ console.log(month);
 var d3 = new Date();
 console.log(d.getFullYear(2022));
 
+// ----------------date exercise - 8---------
+const d4 = new Date();
+console.log(d.setFullYear(2020));
+
 
 
