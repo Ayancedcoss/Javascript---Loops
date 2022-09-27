@@ -155,6 +155,9 @@ document.getElementById("myText").value = "Have a nice day!";
 // ----------------  MAPS loop exercise - 32---------
 document.getElementById("demo3").style.color = "red";
 
+// ----------------  MAPS loop exercise - 33---------
+document.getElementById("demo").style.fontSize = "40px";
+
 
 
 
