@@ -118,3 +118,10 @@ while (j < 10) {
   console.log(j);
 j = j + 2;
 }
+// ----------------  while loop exercise - 25---------
+for (i = 0; i < 10; i++) {
+  console.log(i);
+  if (i == 5) {
+    break;
+  }
+}
