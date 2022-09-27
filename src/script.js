@@ -36,4 +36,7 @@ console.log(d.setFullYear(2020));
 // ----------------Math Method exercise - 9---------
 let r = Math.random();
 console.log(r);
+// ----------------Math Method exercise - 10---------
+let x = Math.max(10, 20);
+console.log(x);
 
