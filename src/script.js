@@ -100,3 +100,8 @@ let i;
 for(i=0; i<10; i++){
   console.log(i);
 }
+// ---------------- for loop exercise - 22---------
+const fruitss = ["Apple", "Banana", "Orange"];
+for(x of fruitss){
+  console.log(x);
+}
