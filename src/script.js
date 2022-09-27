@@ -134,3 +134,6 @@ continue
   }
   console.log(i);
 }
+// ----------------  break loop exercise - 27---------
+
+document.getElementById("demo1").innerHTML = "Hello";
