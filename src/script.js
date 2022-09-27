@@ -141,8 +141,10 @@ document.getElementById("demo1").innerHTML = "Hello";
 // ----------------  MAPS loop exercise - 28---------
 
 document.getElementsByTagName("p")[0].innerHTML= "HeEllo";
+
 // ----------------  MAPS loop exercise - 29---------
 
+document.getElementsByClassName("test")[0].innerHTML = "Hellooooo";
 
 
 
