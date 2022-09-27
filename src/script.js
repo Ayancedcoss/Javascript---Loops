@@ -10,3 +10,8 @@ document.getElementById('demo').innerHTML = fruits.pop();
 // ----------------Array exercise - 3---------
 const fruits_1 = ["Banana", "Orange", "Apple", "Kiwi"];
 console.log(fruits_1.sort());
+
+// ----------------Array exercise - 4---------
+const d = new Date();
+alert(d);
+
