@@ -56,5 +56,8 @@ var n = 10;
 // ----------------Comparison exercise - 15---------
 x = 10;
 y = 5;
-alert(x != y);
-
+// alert(x != y);
+// ----------------Comparison exercise - 16---------
+var age = n;
+var voteable = (age <18)?"Too young":"Old enough";
+alert(voteable);
