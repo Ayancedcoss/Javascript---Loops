@@ -33,5 +33,7 @@ console.log(d.getFullYear(2022));
 const d4 = new Date();
 console.log(d.setFullYear(2020));
 
-
+// ----------------Math Method exercise - 9---------
+let r = Math.random();
+console.log(r);
 
