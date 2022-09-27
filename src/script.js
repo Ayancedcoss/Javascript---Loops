@@ -64,13 +64,23 @@ var voteable = (age <18)?"Too young":"Old enough";
 
 // ----------------if else exercise - 17---------
 if (x > y){
-alert("Hello World");
+// alert("Hello World");
 }
 
 // ----------------if else exercise - 18---------
 if(x >y) {
-  alert("Hello World");
+//   alert("Hello World");
 } else
  {
-  alert("Goodbye");
+//   alert("Goodbye");
+}
+// ----------------Switch exercise - 19---------
+
+switch(fruits) {
+  case"Banana":
+    alert("Hello");
+    break;
+  case"Apple":
+    alert("Welcome");
+    break;    
 }
