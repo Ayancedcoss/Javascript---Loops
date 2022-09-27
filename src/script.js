@@ -78,9 +78,20 @@ if(x >y) {
 
 switch(fruits) {
   case"Banana":
-    alert("Hello");
+    // alert("Hello");
     break;
   case"Apple":
-    alert("Welcome");
+    // alert("Welcome");
     break;    
 }
+// ----------------Switch exercise - 20---------
+switch(fruits) {
+    case "Banana":
+      alert("Hello")
+      break;
+    case "Apple":
+      alert("Welcome")
+      break;
+    default:
+   alert("Neither");
+  }
